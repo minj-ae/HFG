@@ -1,5 +1,6 @@
 <h1 align="center">Hidden Folder Generator</h1>
 <p align="center"> System flagged </p>
+<p align="center"> <img alt="python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> </p>
 
 ## What is it?
 This program creates hidden folders with the system files flag enabled. Because it can be created with easy code, it is also used by malicious people to create computer viruses or to intentionally hide files.
